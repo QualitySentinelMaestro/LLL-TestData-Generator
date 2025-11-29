@@ -1,0 +1,24 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Environment files (API keys, etc.)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS and system files
+.DS_Store
+
+# Logs and temp data
+*.log
+temp/
+*.json
+
